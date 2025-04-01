@@ -1,18 +1,6 @@
-#hola{
-    display: inline;
-}
-.btn{
-    width: 100px;
-    display: inline;
-}    
-
-.mensajeRojo{
-    color: red;
-}    
-
 thead tr th{
     background-color: aqua;
-    width: 100px;
+    
     align-items: center;
 }
 #tabla{
@@ -20,10 +8,11 @@ thead tr th{
     width: 40%;
 }
 td{
-    height: 60px;
+    height: 50px;
+    width: 33%;
 }
 #respuesta{
     display: block;
     font-size: xx-large;
-    color: red;
+    color: white;
 }
